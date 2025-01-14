@@ -5,6 +5,9 @@
 .navbar img{
     width: 100px;
 }
-.footer img{
-    width: 100px;
+.bg-header{
+    background-image:linear-gradient( to bottom,white,rgb(39, 39, 163) ) ;
+}
+.bg-footer{
+    background-image:linear-gradient( to top,white,rgb(39, 39, 163) ) ;
 }
