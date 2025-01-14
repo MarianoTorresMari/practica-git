@@ -11,3 +11,13 @@
 .bg-footer{
     background-image:linear-gradient( to top,white,rgb(39, 39, 163) ) ;
 }
+.card{
+    background-image:linear-gradient( to bottom,black,rgb(39, 39, 163) ) ;
+    position: relative;
+}
+.card-t{
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 1;
+}
